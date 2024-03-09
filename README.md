@@ -8,3 +8,4 @@
 ## Specification
 - `main.gs`の`pdfFolderId`で指定されたフォルダにPDFファイルが、`txtFolderId`で指定されたフォルダにPDF内のテキスト情報が.txtで保存されます。
 - PDFファイル名はダウンロード日時、TXTファイル名は資料の発表日時です。
+- PDFからのテキスト抽出は、PDFをGoogleドキュメントで開き、テキストを取得することで行っています。
